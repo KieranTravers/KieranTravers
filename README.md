@@ -8,4 +8,4 @@ Software Engineer
 
 ## Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KieranTravers)]
+[![Kieran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KieranTravers)]
